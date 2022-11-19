@@ -1,0 +1,215 @@
+body {
+    background:#F9B5AC;
+    color: rgb(5, 1, 1);
+    overflow-y: auto; /* Hide vertical scrollbar */;
+    overflow-x: hidden; /* Hide horizontal scrollbar */;
+
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 20px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #6EAB99;
+    border-radius: 10px;
+  }
+
+.Button1 {
+    background-color: #2E3138;
+    border-width: 1.025px;
+    font: 1em sans-serif;
+    border-radius: 15px;
+    border-color: #2E3138;
+    border-style: solid;
+    height:37px;
+    width: 107px;
+    margin-left: 8px;
+    margin-right: 8px;
+    cursor: pointer;
+    color: #F9B5AC;
+    transition: background-color 0.35s;
+}
+
+.Button1:active {
+    opacity: 0.65   
+}
+
+.Button1:hover {
+    background-color:#FFFD82;
+    color: rgb(12, 9, 9);
+}
+
+
+.Button2 {
+    background-color: #2E3138;
+    border-width: 1.025px;
+    font: 1em sans-serif;
+    border-radius: 15px;
+    border-color: #2E3138;
+    border-style: solid;
+    height:37px;
+    width: 107px;
+    margin-left: 8px;
+    margin-right: 8px;
+    cursor: pointer;
+    color: #F9B5AC;
+    transition: background-color 0.35s;
+}
+
+.Button2:active {
+    opacity: 0.65
+}
+
+.Button2:hover {
+    background-color:#ffffff;
+    color: rgb(24, 20, 20);
+}
+
+
+.Button3 {
+    background-color: #2E3138;
+    border-width: 1.025px;
+    font: 1em sans-serif;
+    border-radius: 15px;
+    border-color: #2E3138;
+    border-style: solid;
+    height:37px;
+    width: 107px;
+    margin-left: 8px;
+    margin-right: 8px;
+    cursor: pointer;
+    color: #F9B5AC;
+    transition: background-color 0.35s;
+}
+
+.Button3:active {
+    opacity: 0.65
+}
+
+.Button3:hover {
+    background-color:#7F675B;
+    color: white;
+}
+
+.header1 {
+
+
+    font: serif;
+    display:block;
+    position:relative;
+    right: -860px ;
+        
+}
+
+.title {
+
+    font: serif;
+    display:inline-block;
+    position:relative;
+    right:-850px ;
+
+}
+
+.title-heading {
+    display: block;
+
+}
+
+.Ralph-photo {
+    width: 238.9px;
+    height: 250.9px;
+    border-radius: 100cm;
+    position: absolute;
+    left: 781.55455px;
+    display: block;
+}
+
+.resume-info {
+
+    position: absolute;
+    left: 630px;
+    top: 500px;
+    text-align: center;
+    
+}
+
+.personalinfo {
+    position: absolute;
+    left: 760px;
+    top: 615px;
+}
+
+.personal-info {
+
+    position: absolute;
+    left: 615px;
+    top: 670px;
+    
+}
+
+.educdiv {
+    
+
+    position:absolute;
+    top: 1000px;
+    left: 825px
+    
+}
+
+.schools {
+
+    position:relative;
+    display: block;
+    left: -360px;
+    text-align: center;
+
+}
+
+.div-awards {
+    position:absolute;
+    display: block;
+    left: 560.6657px;
+    top: 1350px;
+    text-align: center;
+    
+
+}
+
+.Trainings {
+
+    position:absolute;
+    display: block;
+    left: 645px;
+    top: 2170px;
+    text-align: center;
+
+}
+
+.skills {
+
+    position:absolute;
+    display: block;
+    left: 555px;
+    top: 2950px;
+    text-align: center;
+
+}
+
+.Qualities {
+
+    position:absolute;
+    display: block;
+    left: 620px;
+    top: 3225px;
+    text-align: center;
+
+}

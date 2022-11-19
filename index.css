@@ -1,0 +1,151 @@
+@font-face {
+    font-family:'Old Eng' ;
+    src: url(fonts/OldeEnglishRegular-Zd2J.ttf);
+}
+
+body {
+    background:#FFFD82;
+    color: rgb(5, 1, 1);
+}
+
+.geninfdiv {
+    position:relative; right: -630px;
+   
+}
+
+.heading2 {
+    display:block;
+    position:fixed; right: 510px; bottom: 100px;
+    
+    
+}
+
+.geninformation {
+    font-size: 70px;
+
+}
+
+.geninformationdata {
+    font-size: 50px;
+}
+
+.div1 {
+    display:inline-block;
+    width: 3500;
+    position: fixed; right: 700px; 
+
+}
+
+.name1 {
+    display:inline-block;
+    position: relative; top: -190.995px;
+    
+}
+
+.name_text_div {
+    display:inline-block;
+    width: 250px;
+    
+}
+
+.buttons {
+    display: block;
+    position:fixed; right: -500;
+}
+
+.nametextpar {
+    text-align: justify;
+    width: 290px;
+}
+
+.Button1 {
+    background-color: #2E3138;
+    border-width: 1.025px;
+    font: 1em sans-serif;
+    border-radius: 15px;
+    border-color: #2E3138;
+    border-style: solid;
+    height:37px;
+    width: 107px;
+    margin-left: 8px;
+    margin-right: 8px;
+    cursor: pointer;
+    color: #F9B5AC;
+    transition: background-color 0.35s;
+}
+
+.Button1:active {
+    opacity: 0.65   
+}
+
+.Button1:hover {
+    background-color:#f7eeec;
+    color: rgb(8, 8, 8);
+}
+
+
+.Button2 {
+    background-color: #2E3138;
+    border-width: 1.025px;
+    font: 1em sans-serif;
+    border-radius: 15px;
+    border-color: #2E3138;
+    border-style: solid;
+    height:37px;
+    width: 107px;
+    margin-left: 8px;
+    margin-right: 8px;
+    cursor: pointer;
+    color: #F9B5AC;
+    transition: background-color 0.35s;
+}
+
+.Button2:active {
+    opacity: 0.65
+}
+
+.Button2:hover {
+    background-color:#6EAB99;
+    color: white;
+}
+
+
+.Button3 {
+    background-color: #2E3138;
+    border-width: 1.025px;
+    font: 1em sans-serif;
+    border-radius: 15px;
+    border-color: #2E3138;
+    border-style: solid;
+    height:37px;
+    width: 107px;
+    margin-left: 8px;
+    margin-right: 8px;
+    cursor: pointer;
+    color: #F9B5AC;
+    transition: background-color 0.35s;
+}
+
+.Button3:active {
+    opacity: 0.65
+}
+
+.Button3:hover {
+    background-color:#7F675B;
+    color: white;
+}
+        
+.name {
+    font: serif;
+    display:inline-block
+    
+    
+   
+}
+
+.myphoto {
+    width: 238.9px;
+    height: 250.9px;
+    border-radius: 100cm;
+    
+}
